@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-# ML-in-Python-Basics-
+# ML_Python
 Contains Python Basics for Machine Learning<br><br>
 _To explore any function in Jupyter notebook, keep the cursor on the function and press **Shift+tab**._
 
